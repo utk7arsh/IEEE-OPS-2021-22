@@ -101,5 +101,4 @@ void loop() {
      digitalWrite(light3, LOW);
 
   }
-  // put your main code here, to run repeatedly:
 }
